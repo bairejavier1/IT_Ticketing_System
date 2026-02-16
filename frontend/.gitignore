@@ -1,0 +1,3 @@
+# Only frontend-specific exceptions if needed
+# For example, additional logs
+logs/

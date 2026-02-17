@@ -1,8 +1,8 @@
 from fastapi import FastAPI, HTTPException, Depends, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 from passlib.hash import bcrypt
-from .database import supabase
-from .schemas import LoginRequest, RegisterRequest, TicketCreate, TicketUpdate
+from database import supabase
+from schemas import LoginRequest, RegisterRequest, TicketCreate, TicketUpdate
 from typing import Optional
 import uuid
 

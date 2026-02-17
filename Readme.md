@@ -43,7 +43,7 @@ Role-based dashboards for **Admins**, **Staff**, and **Clients** allow secure au
 4. Database returns JSON data.  
 5. Backend sends structured JSON back to frontend for UI updates.  
 
-> For a detailed step-by-step architecture explanation, see [ARCHITECTURE.md](/ARCHITECTURE.md)  
+> For a detailed step-by-step architecture explanation, see [ARCHITECTURE.md](ARCHITECTURE.md)  
 
 ---
 
